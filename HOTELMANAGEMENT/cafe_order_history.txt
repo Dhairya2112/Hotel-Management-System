@@ -1,0 +1,3 @@
+Food: Espresso, Price: 120, Qty: 1, Subtotal: 120
+Total Amount: Rs.120
+-----
