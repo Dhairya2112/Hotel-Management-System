@@ -99,6 +99,7 @@ The system manages guest records, room allocation, cafe menu operations, food or
 - Relational table structure
 - Procedures
 - Routines
+
 The Java application connects to the database using **JDBC**.
 
 ---
